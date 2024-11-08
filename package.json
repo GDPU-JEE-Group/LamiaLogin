@@ -1,0 +1,25 @@
+{
+    "name": "lamialogin",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "build": "webpack"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "description": "",
+    "devDependencies": {
+        "html-webpack-plugin": "^5.6.0",
+        "ts-loader": "^9.5.1",
+        "typescript": "^5.5.4",
+        "webpack": "^5.94.0",
+        "webpack-cli": "^5.1.4",
+        "zstd-napi": "^0.0.8"
+    },
+    "dependencies": {
+        "@pixi-spine/all-3.8": "^4.0.4",
+        "fzstd": "^0.1.1",
+        "pixi.js": "^7.4.2"
+    }
+}
